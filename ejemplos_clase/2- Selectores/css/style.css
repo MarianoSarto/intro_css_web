@@ -10,7 +10,9 @@
 /* span {
   color: red;
 } */
-
+ span {
+  color: red;
+ }
 
 /* Selector por clase */
 /* Todos los elementos que tengan la clase "resaltado" tendran el texto resaltado */
