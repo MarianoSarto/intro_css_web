@@ -1,0 +1,43 @@
+
+body{
+    width: 100%;
+}
+
+article{ 
+width: fit-content;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #222435;
+}
+
+#price{
+    color: #edf2f4;
+    font-size: 25px;
+}
+
+#discount{
+    color: #2ec4b6;
+    font-size: 16px;
+}
+
+
+/*article {
+    background-color: rgb(26, 26, 68);
+    margin: 70px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    border-radius: 40px;
+    width: fit-content;
+    padding: 7px;
+   }
+     #price{
+       font-size: 50px;
+     }
+   
+   #discount{
+       font-size: 20px;
+       color: rgb(224, 204, 204);
+   
+   }  (HECHO POR MI PARA PROBAR, SIN TOMAR DEL EJERCICIO LAS PROPIEDADES)
+

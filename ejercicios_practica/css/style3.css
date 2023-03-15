@@ -1,0 +1,41 @@
+
+body{
+    width: 100%; 
+   background-color: lightcyan;
+   
+}
+
+article{ 
+width: fit-content;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #222435;
+}
+
+#price{
+    color: #edf2f4;
+    font-size: 25px;
+   
+}
+
+#discount{
+    color: #2ec4b6;
+    font-size: 16px;
+}
+
+img{
+    border-radius: 20px;
+  margin: 5px;
+  background-color: #343c8a;
+}
+
+div{
+    padding: 35px;
+    width: fit-content;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: green;
+    color: white;
+    border-radius: 20px
+
+}
